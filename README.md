@@ -7,5 +7,3 @@ Repo per il corso di Logica Fuzzy del corso IFTS - IT Security Specialist.
 
 ## Main.py
 Il file 'main.py' è il primo codice Python scritto nel corso.
-
-![image](Open Peeps-Bust.png)
