@@ -1,7 +1,9 @@
 # Corso di Logica Fuzzy - IFTS
 Repo per il corso di Logica Fuzzy del corso IFTS - IT Security Specialist.
 
-[Repo Fuzzy IFTS](https://github.com/not-icosahedron/corsoFuzzy-IFTS)
+[Repo Fuzzy IFTS](https://github.com/not-icosahedron/corsoFuzzy-IFTS "tooltip")
 
 ## Main.py
 Il file 'main.py' è il primo codice Python scritto nel corso.
+
+![image]((Open Peeps - Bust.png))
